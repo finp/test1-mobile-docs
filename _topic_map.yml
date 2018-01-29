@@ -74,3 +74,9 @@ Topics:
     File: AndroidSDK1-1
   - Name: Using Android SDK 1.2
     File: AndroidSDK1-1
+---    
+Name: Using Custom Mobile Services
+Dir: services
+Topics:
+  - Name: Creating a Custom Mobile Service
+    File: creating-custom-service
