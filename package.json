@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/finp/test1-mobile-docs#readme",
   "dependencies": {
-    "test1-push-docs-latest": "git+ssh://git@github.com/finp/test1-push-docs.git#master",
-    "test1-push-docs-v1.0": "git+ssh://git@github.com/finp/test1-push-docs.git#v1.0",
-    "test1-sync-docs-latest": "git+ssh://git@github.com/finp/test1-sync-docs.git"
+    "test1-push-docs": "git+ssh://git@github.com/finp/test1-push-docs.git#master",
+    "test1-sync-docs": "git+ssh://git@github.com/finp/test1-sync-docs.git#master"
   }
 }
